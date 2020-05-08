@@ -1,7 +1,3 @@
-Casos confirmados de COVID-19 en Bogotá D.C.;;;;;;;;
-;;;;;;;;
-Utilidad:  Permite conocer la evolución del número de casos confirmados con nuevo coronavirus COVID-19 en el contexto de la pandemia.;;;;;;;;
-;;;;;;;;
 ID de caso;Fecha de diagnóstico;Ciudad de residencia;Localidad de residencia;Edad;Sexo;Tipo de caso;Ubicación;Estado
 1;6/03/2020;Bogotá;01 - Usaquén;19;F;Importado;Casa;Recuperado
 2;10/03/2020;Bogotá;10 - Engativá;22;F;Importado;Casa;Recuperado
@@ -3472,6 +3468,3 @@ ID de caso;Fecha de diagnóstico;Ciudad de residencia;Localidad de residencia;Eda
 3467;6/05/2020;Bogotá;16 - Puente Aranda;27;M;En estudio;Casa;Moderado
 3468;6/05/2020;Bogotá;08 - Kennedy;56;M;En estudio;Casa;Moderado
 3469;6/05/2020;Bogotá;05 - Usme;17;M;En estudio;Casa;Moderado
-;;;;;;;;
-;;;;;;;;
-Fuente: Base de datos de casos confirmados COVID-19. Subsecretaría de Salud Pública. Secretaría Distrital de Salud. 2020. Corte: mayo 6 de 2020.;;;;;;;;

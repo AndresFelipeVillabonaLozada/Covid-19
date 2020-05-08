@@ -1,6 +1,6 @@
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/kernels
 
-
+#
 https://www.kaggle.com/chapagain/covid-19-worldwide-eda-chart-graph-map
 
 
@@ -14,6 +14,25 @@ https://www.kaggle.com/holfyuen/coronavirus-2019-20-visualization
 
 
 
-
-
+#
 http://saludata.saludcapital.gov.co/osb/index.php/datos-de-salud/enfermedades-trasmisibles/covid19/
+
+
+
+
+https://www.kaggle.com/ratan123/data-analysis-of-tweets-on-australian-election
+
+
+
+
+https://medium.com/@juanpablocuevas/mapas-de-concentraci%C3%B3n-de-la-biodiversidad-para-el-an%C3%A1lisis-geoespacial-de-la-riqueza-colombiana-cbc616956fc2
+
+
+
+https://www.datos.gov.co/en/d/gt2j-8ykr/visualization
+
+
+https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
+
+
+https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018

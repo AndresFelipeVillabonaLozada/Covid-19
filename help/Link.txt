@@ -1,6 +1,7 @@
-https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction
+https://datascienceplus.com/twitter-analysis-with-python/
 https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model
 https://www.dataquest.io/blog/sql-insert-tutorial/
+
 
 https://www.kaggle.com/eswarchandt/geospatial-analysis-on-covid-19-day-to-day-track
 
@@ -11,6 +12,8 @@ https://www.kaggle.com/holfyuen/coronavirus-2019-20-visualization
 https://www.kaggle.com/ratan123/data-analysis-of-tweets-on-australian-election
 
 
+#
+https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction
 
 #
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/kernels
